@@ -1,0 +1,17 @@
+
+# Visual Studio
+.vs/
+*.user
+*.suo
+*.tmp
+*.~u
+
+# TwinCAT
+_Boot/
+_Temp/
+_CompileInfo/
+*.tmc
+*.tmcRefac
+
+# Windows
+Thumbs.db
